@@ -1,3 +1,10 @@
+thunar (1.6.3-1ubuntu5+aurex1) trusty; urgency=medium
+
+  * Added patch to use 'exo-open --launch FileManager' in thunar-tpa
+    plugin to enable use of alternative file managers
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Tue, 26 Aug 2014 02:25:07 +0200
+
 thunar (1.6.3-1ubuntu5) trusty; urgency=medium
 
   * Add git-save-keyboard-shortcuts.patch. LP: #1186846
